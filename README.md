@@ -1,0 +1,1 @@
+# baljinnyambat.github.io
