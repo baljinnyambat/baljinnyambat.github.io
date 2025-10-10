@@ -1,0 +1,37 @@
+{
+  "projects": [
+    {
+      "folder": "3e",
+      "name": "3-р эмнэлэг",
+      "type": "Branding | Logo",
+      "cover": "1-1.png",
+      "images": [
+        {"tmb": "1-1.png", "large": "1-1.png"},
+        {"tmb": "1-2.png", "large": "1-2.png"}       
+      ]
+    },
+    {
+      "folder": "bu",
+      "name": "Баян уул",
+      "type": "Branding",
+      "cover": "1.png",
+      "images": [
+        {"tmb": "1.png", "large": "1.png"},
+        {"tmb": "11.png", "large": "11.png"},       
+        {"tmb": "12.png", "large": "12.png"},      
+        {"tmb": "13.png", "large": "13.png"},       
+        {"tmb": "14.png", "large": "14.png"}       
+      ]
+    },
+    {
+      "folder": "crm",
+      "name": "CRM 20",
+      "type": "Logo",
+      "cover": "1-1.png",
+      "images": [
+        {"tmb": "1-1.png", "large": "1-1.png"},
+        {"tmb": "1-2.png", "large": "1-2.png"}       
+      ]
+    }
+  ]
+}

@@ -1,1 +1,59 @@
-Bajgaa web site
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LightGallery Demo</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+
+<body>
+
+    <nav class="relative bg-sky-800">
+        <div class="flex justify-between">
+            <img src="logo.png" class="h-16"/>
+            <p class="text-xl">
+                Mid
+            </p>
+            <p class="text-xl">
+                Contact
+            </p>
+        </div>
+    </nav>
+
+    <div id="project" class="grid grid-cols-1 md:grid-cols-4">
+    </div>
+
+    <script>
+        function go(proj) {
+            window.location.href = 'gallery.html?project=' + proj;
+        }
+
+        $(document).ready(function () {
+            $.getJSON('data.json', function (data) {
+                let html = "";
+
+                $.each(data.projects, function (index, project) {
+                    html += `<div class="overflow-hidden relative group cursor-pointer" onclick="go('${project.folder}')">
+                        <img src="project/${project.folder}/${project.cover}" loading="lazy"
+                            class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110 " />
+                        <p
+                            class="absolute inset-0 bg-black/20  flex items-start justify-start pl-10 pt-10 text-xl text-gray-100 sm:opacity-0 group-hover:opacity-100 transition-opacity duration-500">
+                            ${project.type}
+                        </p>
+                        <p
+                            class="absolute inset-0 flex items-end justify-start pl-10 pb-10 text-2xl text-white font-semibold uppercase sm:opacity-0 group-hover:opacity-100 transition-opacity duration-500">
+                            ${project.name}
+                        </p>
+                    </div>`;
+                });
+
+                $('#project').html(html);
+            })
+        });
+    </script>
+</body>
+
+</html>
