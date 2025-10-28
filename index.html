@@ -10,7 +10,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 </head>
 
-<body>
+<body id="top" class="scroll-smooth">
 
     <nav class="sm:fixed sm:top-0 sm:z-10 w-full  bg-linear-to-r from-sky-700 to-blue-900">
         <div class="sm:flex sm:flex-row gap-x-5">
@@ -53,15 +53,15 @@
 
                 $.each(data.projects, function (index, project) {
                     jpgname = project.cover.replace('.png', '.jpg');
-                    html += `<div class="overflow-hidden relative group cursor-pointer rounded-lg inset-shadow-sm" onclick="go('${project.folder}')">
+                    html += `<div class="overflow-hidden relative group cursor-pointer rounded-lg shadow-lg" onclick="go('${project.folder}')">
                         <img src="small/${project.folder}/${jpgname}" loading="lazy"
                             class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110 " />
                         <p
-                            class="absolute inset-0 bg-black/20  flex items-start justify-start pl-10 pt-10 text-xl text-gray-100 sm:opacity-0 group-hover:opacity-100 transition-opacity duration-500">
+                            class="absolute inset-0 bg-black/20  flex items-start justify-start pl-10 pt-10 text-lg text-gray-100 sm:opacity-0 group-hover:opacity-100 transition-opacity duration-500">
                             ${project.type}
                         </p>
                         <p
-                            class="absolute inset-0 flex items-end justify-start pl-10 pb-10 text-2xl text-white font-semibold uppercase sm:opacity-0 group-hover:opacity-100 transition-opacity duration-500">
+                            class="absolute inset-0 flex items-end justify-start pl-10 pb-10 text-xl text-white font-semibold uppercase sm:opacity-0 group-hover:opacity-100 transition-opacity duration-500">
                             ${project.name}
                         </p>
                     </div>`;
@@ -71,6 +71,14 @@
             })
         });
     </script>
+
+    <a href="#top" class="fixed bottom-6 right-6 bg-black/50 text-white p-3 rounded-full shadow-lg hover:bg-sky-700/70">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"
+            class="size-4 sm:size-6">
+            <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 18.75 7.5-7.5 7.5 7.5" />
+            <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 7.5-7.5 7.5 7.5" />
+        </svg>
+    </a>
 </body>
 
 </html>
