@@ -2,7 +2,7 @@
     "projects": [
         {
             "folder": "mxwl",
-            "name": "mxwl",
+            "name": "maxwell",
             "type": "Branding",
             "cover": "1.png",
             "images": [
@@ -28,7 +28,7 @@
         },
         {
             "folder": "tenger",
-            "name": "tenger",
+            "name": "tenger festival",
             "type": "Branding",
             "cover": "1.png",
             "images": [
@@ -69,7 +69,7 @@
         },
         {
             "folder": "plthnk",
-            "name": "plthnk",
+            "name": "politehnik kollej",
             "type": "Branding",
             "cover": "1-17.png",
             "images": [
@@ -92,7 +92,7 @@
         },
         {
             "folder": "duut",
-            "name": "duut",
+            "name": "duut urlan",
             "type": "Branding",
             "cover": "1-17.png",
             "images": [
@@ -126,7 +126,7 @@
         },
         {
             "folder": "uburtgl",
-            "name": "uburtgl",
+            "name": "Ulsiin burtgeliin eronhii gazar",
             "type": "Branding",
             "cover": "2-2.png",
             "images": [
@@ -196,7 +196,7 @@
         },
         {
             "folder": "erdns",
-            "name": "erdns",
+            "name": "Erdenes critical minerals",
             "type": "Branding",
             "cover": "74.png",
             "images": [
