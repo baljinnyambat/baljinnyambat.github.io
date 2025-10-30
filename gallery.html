@@ -87,7 +87,7 @@
                     $.each(project.images, function (index, img) {
                         jpgname = img.replace('.png', '.jpg');
                         html += `<a href="project/${project.folder}/${img}">
-                            <img src="small/${project.folder}/${jpgname}" loading="lazy" class="aspect-square object-cover" />
+                            <img src="small/${project.folder}/${jpgname}" loading="lazy" class="aspect-square object-cover h-full w-full" />
                         </a>`;
                     });
 

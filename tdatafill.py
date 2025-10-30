@@ -22,7 +22,6 @@ def get_file_names(directory_path):
 
 data = {"projects": []}
 
-filename = "output.json"
 folders = get_folder_names("project")
 
 for folder in folders:
@@ -42,5 +41,5 @@ for folder in folders:
     data["projects"].append(entity)
 
 # Open the file in write mode ('w') and use json.dump()
-with open(filename, "w") as f:
+with open("data.json", "w") as f:
     json.dump(data, f, indent=4)

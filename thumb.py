@@ -12,7 +12,7 @@ def get_folder_names(directory_path):
 
 
 def generate_small(folder, TARGET_WIDTH=500):
-    INPUT_DIR = "project/" + folder
+    INPUT_DIR = "comp/" + folder
     OUTPUT_DIR = "small/" + folder
     print(f"Starting thumbnail generation (Output format: JPEG)...")
 
@@ -28,7 +28,7 @@ def generate_small(folder, TARGET_WIDTH=500):
 
     try:
         for filename in os.listdir(INPUT_DIR):
-            if filename.lower().endswith((".png")):
+            if filename.lower().endswith((".png", ".jpg", ".jpeg")):
 
                 input_path = os.path.join(INPUT_DIR, filename)
 
@@ -63,6 +63,6 @@ def generate_small(folder, TARGET_WIDTH=500):
     print(f"Total files processed: {files_processed}")
 
 
-alldir = get_folder_names("project")
+alldir = get_folder_names("comp")
 for dir in alldir:
     generate_small(dir)
