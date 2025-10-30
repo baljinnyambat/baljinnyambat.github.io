@@ -70,7 +70,7 @@
                     jpgname = project.cover.replace('.png', '.jpg');
                     html += `<div class="overflow-hidden relative group cursor-pointer rounded-lg shadow-lg" onclick="go('${project.folder}')">
                         <img src="small/${project.folder}/${jpgname}" loading="lazy"
-                            class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110 " />
+                            class="w-full h-full aspect-square object-cover transition-transform duration-500 group-hover:scale-110 " />
                         <p
                             class="absolute inset-0 bg-black/20  flex items-start justify-start pl-10 pt-10 text-lg text-gray-100 sm:opacity-0 group-hover:opacity-100 transition-opacity duration-500">
                             ${project.type}
