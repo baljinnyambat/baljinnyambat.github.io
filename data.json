@@ -24,24 +24,7 @@
                 "2.png"
             ]
         },
-        
-        {
-            "folder": "baruun",
-            "name": "Баруун бүс",
-            "type": "Branding",
-            "cover": "2-2.png",
-            "images": [
-                "2-2.png",
-                "1-8.png",
-                "1-9.png",
-                "2-7.png",
-                "2-5.png",
-                "2-6.png",
-                "2-1.png",
-                "3-1.png"
-            ]
-        },
-        {
+         {
             "folder": "ezegt",
             "name": "Эзэгтэй брэнд",
             "type": "Package design",
@@ -64,6 +47,24 @@
                 "1l.png"
             ]
         },
+        
+        {
+            "folder": "baruun",
+            "name": "Баруун бүс",
+            "type": "Branding",
+            "cover": "2-2.png",
+            "images": [
+                "2-2.png",
+                "1-8.png",
+                "1-9.png",
+                "2-7.png",
+                "2-5.png",
+                "2-6.png",
+                "2-1.png",
+                "3-1.png"
+            ]
+        },
+       
         {
             "folder": "misheel",
             "name": "Misheel cargo",
@@ -90,7 +91,7 @@
             "folder": "mxwl",
             "name": "Maxwell",
             "type": "Branding",
-            "cover": "21.png",
+            "cover": "4.png",
             "images": [
                 "21.png",
                 "1.png",
@@ -103,9 +104,9 @@
                 "20.png",
                 "3.png",
                 "18.png",
+                "4.png",
                 "5.png",
                 "10.png",
-                "4.png",
                 "16.png",
                 "22.png",
                 "11.png",
@@ -161,6 +162,30 @@
             ]
         },
         {
+            "folder": "urnha",
+            "name": "Урианхайн Наадам",
+            "type": "Branding",
+            "cover": "1.png",
+            "images": [
+                "1.png",
+                "12.png",
+                "2.jpg",
+                "6.jpg",
+                "8.jpg",
+                "18.jpg",
+                "11.jpg",
+                "14.jpg",
+                "5.png",
+                "16.jpg",
+                "10.png",
+                "13.jpg",
+                "3.jpg",
+                "7.jpg",
+                "9.png",
+                "4.jpg"
+            ]
+        },
+        {
             "folder": "travida",
             "name": "travida",
             "type": "Logo",
@@ -188,7 +213,7 @@
             "folder": "bank",
             "name": "Банк бус Холбоо",
             "type": "Branding",
-            "cover": "1.png",
+            "cover": "3.png",
             "images": [
                 "1.png",
                 "9.jpg",
@@ -204,30 +229,7 @@
                 "4.jpg"
             ]
         },
-        {
-            "folder": "urnha",
-            "name": "Урианхайн Наадам",
-            "type": "Branding",
-            "cover": "1.png",
-            "images": [
-                "1.png",
-                "12.png",
-                "2.jpg",
-                "6.jpg",
-                "8.jpg",
-                "18.jpg",
-                "11.jpg",
-                "14.jpg",
-                "5.png",
-                "16.jpg",
-                "10.png",
-                "13.jpg",
-                "3.jpg",
-                "7.jpg",
-                "9.png",
-                "4.jpg"
-            ]
-        },
+        
         {
             "folder": "ubcab",
             "name": "ubcab",
@@ -297,7 +299,7 @@
             "folder": "luc",
             "name": "lucci casa",
             "type": "Logo",
-            "cover": "1.png",
+            "cover": "2.png",
             "images": [
                 "1.png",
                 "2.jpg",
@@ -432,7 +434,7 @@
             "folder": "shira",
             "name": "Shirakawa",
             "type": "Logo",
-            "cover": "1-2.png",
+            "cover": "1-1.png",
             "images": [
                 "1-2.png",
                 "1-1.png",
@@ -578,33 +580,6 @@
             ]
         },
         {
-            "folder": "redc",
-            "name": "redcoin",
-            "type": "Branding",
-            "cover": "3.jpg",
-            "images": [
-                "1.png",
-                "9.jpg",
-                "7.png",
-                "17.jpg",
-                "15.jpg",
-                "6.jpg",
-                "12.jpg",
-                "8.jpg",
-                "18.jpg",
-                "19.jpg",
-                "11.jpg",
-                "10.png",
-                "13.jpg",
-                "16.png",
-                "14.png",
-                "3.jpg",
-                "5.jpg",
-                "4.jpg",
-                "2.png"
-            ]
-        },
-        {
             "folder": "bats",
             "name": "Батсуурь",
             "type": "Graphic art",
@@ -685,7 +660,7 @@
             "folder": "otgoo",
             "name": "otgoo",
             "type": "Personal branding",
-            "cover": "1.jpg",
+            "cover": "4.jpg",
             "images": [
                 "1.jpg",
                 "2.jpg",
@@ -919,7 +894,7 @@
             "folder": "erdns",
             "name": "Erdenes Critical Minerals",
             "type": "Branding",
-            "cover": "74.png",
+            "cover": "2.png",
             "images": [
                 "74.png",
                 "21.png",
@@ -985,7 +960,7 @@
             "folder": "medimpex",
             "name": "medimpex",
             "type": "Branding",
-            "cover": "1.png",
+            "cover": "4.png",
             "images": [
                 "1.png",
                 "9.jpg",
@@ -1006,6 +981,33 @@
                 "3.jpg",
                 "5.jpg",
                 "7.jpg",
+                "2.png"
+            ]
+        },
+         {
+            "folder": "redc",
+            "name": "redcoin",
+            "type": "Branding",
+            "cover": "3.jpg",
+            "images": [
+                "1.png",
+                "9.jpg",
+                "7.png",
+                "17.jpg",
+                "15.jpg",
+                "6.jpg",
+                "12.jpg",
+                "8.jpg",
+                "18.jpg",
+                "19.jpg",
+                "11.jpg",
+                "10.png",
+                "13.jpg",
+                "16.png",
+                "14.png",
+                "3.jpg",
+                "5.jpg",
+                "4.jpg",
                 "2.png"
             ]
         },
@@ -1167,7 +1169,7 @@
             "folder": "ipaf",
             "name": "IPAF 9th",
             "type": "Branding",
-            "cover": "1-17.png",
+            "cover": "1-19.png",
             "images": [
                 "1-17.png",
                 "1-14.png",
@@ -1471,7 +1473,7 @@
             "folder": "monfemnet",
             "name": "Monfemnet",
             "type": "Branding",
-            "cover": "9.jpg",
+            "cover": "7.jpg",
             "images": [
                 "9.jpg",
                 "1.jpg",
