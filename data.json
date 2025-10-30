@@ -26,18 +26,6 @@
         },
         
         {
-            "folder": "luc",
-            "name": "lucci casa",
-            "type": "Logo",
-            "cover": "1.png",
-            "images": [
-                "1.png",
-                "2.jpg",
-                "4.png",
-                "3.jpg"
-            ]
-        },
-        {
             "folder": "baruun",
             "name": "Баруун бүс",
             "type": "Branding",
@@ -57,7 +45,7 @@
             "folder": "ezegt",
             "name": "Эзэгтэй брэнд",
             "type": "Package design",
-            "cover": "0.5l-1l.png",
+            "cover": "2l.png",
             "images": [
                 "2l.png",
                 "1l-1.png",
@@ -306,6 +294,18 @@
             ]
         },
         {
+            "folder": "luc",
+            "name": "lucci casa",
+            "type": "Logo",
+            "cover": "1.png",
+            "images": [
+                "1.png",
+                "2.jpg",
+                "4.png",
+                "3.jpg"
+            ]
+        },
+        {
             "folder": "circus",
             "name": "Circus day",
             "type": "Logo",
@@ -344,7 +344,7 @@
             "folder": "west",
             "name": "Western wild",
             "type": "Logo",
-            "cover": "1-5.png",
+            "cover": "1-1.png",
             "images": [
                 "1-5.png",
                 "1-6.png",
@@ -561,7 +561,7 @@
             "folder": "binary",
             "name": "binary",
             "type": "Branding",
-            "cover": "9.jpg",
+            "cover": "2.jpg",
             "images": [
                 "9.jpg",
                 "1.jpg",
