@@ -1,32 +1,34 @@
 {
     "projects": [
         {
-            "folder": "hybr",
-            "name": "hybr",
+            "folder": "quinn",
+            "name": "quinn",
             "type": "Branding",
-            "cover": "6.png",
+            "cover": "1.png",
             "images": [
                 "1.png",
-                "9.jpg",
+                "fb.png",
                 "13.png",
-                "15.jpg",
-                "2.jpg",
-                "6.jpg",
-                "12.jpg",
-                "8.jpg",
-                "11.jpg",
+                "12.png",
+                "7.png",
+                "6.png",
+                "8.png",
+                "3.png",
+                "5.png",
+                "1-1.png",
+                "10.png",
                 "4.png",
-                "10.jpg",
                 "14.png",
-                "3.jpg",
-                "5.jpg",
-                "7.jpg"
+                "11.png",
+                "9.png",
+                "2.png"
             ]
         },
+        
         {
             "folder": "luc",
-            "name": "luc",
-            "type": "Branding",
+            "name": "lucci casa",
+            "type": "Logo",
             "cover": "1.png",
             "images": [
                 "1.png",
@@ -37,7 +39,7 @@
         },
         {
             "folder": "baruun",
-            "name": "baruun",
+            "name": "Баруун бүс",
             "type": "Branding",
             "cover": "2-2.png",
             "images": [
@@ -53,9 +55,9 @@
         },
         {
             "folder": "ezegt",
-            "name": "ezegt",
-            "type": "Branding",
-            "cover": "2l.png",
+            "name": "Эзэгтэй брэнд",
+            "type": "Package design",
+            "cover": "0.5l-1l.png",
             "images": [
                 "2l.png",
                 "1l-1.png",
@@ -75,22 +77,10 @@
             ]
         },
         {
-            "folder": "bats",
-            "name": "bats",
-            "type": "Branding",
-            "cover": "1.png",
-            "images": [
-                "1.png",
-                "3.png",
-                "4.png",
-                "2.png"
-            ]
-        },
-        {
             "folder": "misheel",
-            "name": "misheel",
+            "name": "Misheel cargo",
             "type": "Branding",
-            "cover": "1.png",
+            "cover": "2.png",
             "images": [
                 "1.png",
                 "9.jpg",
@@ -109,29 +99,8 @@
             ]
         },
         {
-            "folder": "insur",
-            "name": "insur",
-            "type": "Branding",
-            "cover": "9.jpg",
-            "images": [
-                "9.jpg",
-                "1.jpg",
-                "13.png",
-                "12.png",
-                "6.jpg",
-                "8.jpg",
-                "4.png",
-                "10.jpg",
-                "3.jpg",
-                "11.png",
-                "5.jpg",
-                "7.jpg",
-                "2.png"
-            ]
-        },
-        {
             "folder": "mxwl",
-            "name": "mxwl",
+            "name": "Maxwell",
             "type": "Branding",
             "cover": "21.png",
             "images": [
@@ -158,7 +127,7 @@
         },
         {
             "folder": "mid",
-            "name": "mid",
+            "name": "midway event hall",
             "type": "Branding",
             "cover": "1.png",
             "images": [
@@ -178,8 +147,8 @@
         },
         {
             "folder": "ded",
-            "name": "ded",
-            "type": "Branding",
+            "name": "Dedmon",
+            "type": "Logo",
             "cover": "1.jpg",
             "images": [
                 "1.jpg",
@@ -190,7 +159,7 @@
         },
         {
             "folder": "nsug",
-            "name": "nsug",
+            "name": "Нийслэлийн Соёл Урлагийн газар",
             "type": "Branding",
             "cover": "1-8.png",
             "images": [
@@ -206,7 +175,7 @@
         {
             "folder": "travida",
             "name": "travida",
-            "type": "Branding",
+            "type": "Logo",
             "cover": "1-5.png",
             "images": [
                 "1-5.png",
@@ -218,7 +187,7 @@
         {
             "folder": "dayan",
             "name": "dayan",
-            "type": "Branding",
+            "type": "Logo",
             "cover": "1.jpg",
             "images": [
                 "1.jpg",
@@ -229,7 +198,7 @@
         },
         {
             "folder": "bank",
-            "name": "bank",
+            "name": "Банк бус Холбоо",
             "type": "Branding",
             "cover": "1.png",
             "images": [
@@ -248,9 +217,33 @@
             ]
         },
         {
+            "folder": "urnha",
+            "name": "Урианхайн Наадам",
+            "type": "Branding",
+            "cover": "1.png",
+            "images": [
+                "1.png",
+                "12.png",
+                "2.jpg",
+                "6.jpg",
+                "8.jpg",
+                "18.jpg",
+                "11.jpg",
+                "14.jpg",
+                "5.png",
+                "16.jpg",
+                "10.png",
+                "13.jpg",
+                "3.jpg",
+                "7.jpg",
+                "9.png",
+                "4.jpg"
+            ]
+        },
+        {
             "folder": "ubcab",
             "name": "ubcab",
-            "type": "Branding",
+            "type": "Logo",
             "cover": "1.jpg",
             "images": [
                 "1.jpg",
@@ -313,33 +306,9 @@
             ]
         },
         {
-            "folder": "urnha",
-            "name": "urnha",
-            "type": "Branding",
-            "cover": "1.png",
-            "images": [
-                "1.png",
-                "12.png",
-                "2.jpg",
-                "6.jpg",
-                "8.jpg",
-                "18.jpg",
-                "11.jpg",
-                "14.jpg",
-                "5.png",
-                "16.jpg",
-                "10.png",
-                "13.jpg",
-                "3.jpg",
-                "7.jpg",
-                "9.png",
-                "4.jpg"
-            ]
-        },
-        {
             "folder": "circus",
-            "name": "circus",
-            "type": "Branding",
+            "name": "Circus day",
+            "type": "Logo",
             "cover": "2-2.png",
             "images": [
                 "2-2.png",
@@ -351,21 +320,30 @@
             ]
         },
         {
-            "folder": "score",
-            "name": "score",
-            "type": "Branding",
-            "cover": "1.png",
+            "folder": "insur",
+            "name": "insur Hub",
+            "type": "Logo",
+            "cover": "9.jpg",
             "images": [
-                "1.png",
-                "2.jpg",
+                "9.jpg",
+                "1.jpg",
+                "13.png",
+                "12.png",
+                "6.jpg",
+                "8.jpg",
+                "4.png",
+                "10.jpg",
                 "3.jpg",
-                "4.jpg"
+                "11.png",
+                "5.jpg",
+                "7.jpg",
+                "2.png"
             ]
         },
         {
             "folder": "west",
-            "name": "west",
-            "type": "Branding",
+            "name": "Western wild",
+            "type": "Logo",
             "cover": "1-5.png",
             "images": [
                 "1-5.png",
@@ -376,8 +354,8 @@
         },
         {
             "folder": "jet",
-            "name": "jet",
-            "type": "Branding",
+            "name": "jet trans",
+            "type": "Logo",
             "cover": "1.jpg",
             "images": [
                 "1.jpg",
@@ -388,8 +366,8 @@
         },
         {
             "folder": "indra",
-            "name": "indra",
-            "type": "Branding",
+            "name": "Indria home",
+            "type": "Logo",
             "cover": "1.jpg",
             "images": [
                 "1.jpg",
@@ -400,7 +378,7 @@
         },
         {
             "folder": "mgns",
-            "name": "mgns",
+            "name": "Magnus",
             "type": "Branding",
             "cover": "9.jpg",
             "images": [
@@ -421,9 +399,21 @@
             ]
         },
         {
+            "folder": "score",
+            "name": "score",
+            "type": "Logo",
+            "cover": "1.png",
+            "images": [
+                "1.png",
+                "2.jpg",
+                "3.jpg",
+                "4.jpg"
+            ]
+        },
+        {
             "folder": "silk",
             "name": "silk",
-            "type": "Branding",
+            "type": "Logo",
             "cover": "1.png",
             "images": [
                 "1.png",
@@ -440,8 +430,8 @@
         },
         {
             "folder": "shira",
-            "name": "shira",
-            "type": "Branding",
+            "name": "Shirakawa",
+            "type": "Logo",
             "cover": "1-2.png",
             "images": [
                 "1-2.png",
@@ -452,7 +442,7 @@
         },
         {
             "folder": "thermo",
-            "name": "thermo",
+            "name": " Thermo energy",
             "type": "Branding",
             "cover": "9.jpg",
             "images": [
@@ -471,9 +461,9 @@
         },
         {
             "folder": "plthnk",
-            "name": "plthnk",
+            "name": "Политехник коллеж 80 жил",
             "type": "Branding",
-            "cover": "1-17.png",
+            "cover": "1.png",
             "images": [
                 "1-17.png",
                 "1.png",
@@ -494,7 +484,7 @@
         },
         {
             "folder": "villa",
-            "name": "villa",
+            "name": "villa verde",
             "type": "Branding",
             "cover": "1.png",
             "images": [
@@ -544,7 +534,7 @@
         {
             "folder": "lera",
             "name": "lera",
-            "type": "Branding",
+            "type": "Logo",
             "cover": "1-10.png",
             "images": [
                 "1-10.png",
@@ -557,8 +547,8 @@
         },
         {
             "folder": "indrrr",
-            "name": "indrrr",
-            "type": "Branding",
+            "name": "Indria minimal cake",
+            "type": "Logo",
             "cover": "2-2.png",
             "images": [
                 "2-2.png",
@@ -589,9 +579,9 @@
         },
         {
             "folder": "redc",
-            "name": "redc",
+            "name": "redcoin",
             "type": "Branding",
-            "cover": "1.png",
+            "cover": "3.jpg",
             "images": [
                 "1.png",
                 "9.jpg",
@@ -615,9 +605,21 @@
             ]
         },
         {
+            "folder": "bats",
+            "name": "Батсуурь",
+            "type": "Graphic art",
+            "cover": "1.png",
+            "images": [
+                "1.png",
+                "3.png",
+                "4.png",
+                "2.png"
+            ]
+        },
+        {
             "folder": "uvid",
-            "name": "uvid",
-            "type": "Branding",
+            "name": "Увидасу брэнд",
+            "type": "Package design",
             "cover": "1.png",
             "images": [
                 "1.png",
@@ -628,8 +630,8 @@
         },
         {
             "folder": "buynt",
-            "name": "buynt",
-            "type": "Branding",
+            "name": "Buyant organic meat",
+            "type": "Logo",
             "cover": "1.png",
             "images": [
                 "1.png",
@@ -642,24 +644,11 @@
                 "2.png"
             ]
         },
-        {
-            "folder": "farm",
-            "name": "farm",
-            "type": "Branding",
-            "cover": "1-5.png",
-            "images": [
-                "1-5.png",
-                "1-6.png",
-                "1-7.png",
-                "1-2.png",
-                "1-1.png",
-                "1-3.png"
-            ]
-        },
+        
         {
             "folder": "serial",
-            "name": "serial",
-            "type": "Branding",
+            "name": "auto serial",
+            "type": "Logo",
             "cover": "1-5.png",
             "images": [
                 "1-5.png",
@@ -671,7 +660,7 @@
         {
             "folder": "mass",
             "name": "mass",
-            "type": "Branding",
+            "type": "Logo",
             "cover": "1.png",
             "images": [
                 "1.png",
@@ -682,8 +671,8 @@
         },
         {
             "folder": "terra",
-            "name": "terra",
-            "type": "Branding",
+            "name": "Terra adventure",
+            "type": "Logo",
             "cover": "1.jpg",
             "images": [
                 "1.jpg",
@@ -695,7 +684,7 @@
         {
             "folder": "otgoo",
             "name": "otgoo",
-            "type": "Branding",
+            "type": "Personal branding",
             "cover": "1.jpg",
             "images": [
                 "1.jpg",
@@ -707,7 +696,7 @@
         {
             "folder": "brich",
             "name": "brich",
-            "type": "Branding",
+            "type": "Logo",
             "cover": "1.jpg",
             "images": [
                 "1.jpg",
@@ -725,10 +714,24 @@
             ]
         },
         {
-            "folder": "duut",
-            "name": "duut",
+            "folder": "farm",
+            "name": "Farm Forum",
             "type": "Branding",
-            "cover": "1-17.png",
+            "cover": "1-5.png",
+            "images": [
+                "1-5.png",
+                "1-6.png",
+                "1-7.png",
+                "1-2.png",
+                "1-1.png",
+                "1-3.png"
+            ]
+        },
+        {
+            "folder": "duut",
+            "name": "Duut urlan",
+            "type": "Branding",
+            "cover": "0-1.png",
             "images": [
                 "1-17.png",
                 "1-8.png",
@@ -760,8 +763,8 @@
         },
         {
             "folder": "als",
-            "name": "als",
-            "type": "Branding",
+            "name": "Als nuudel",
+            "type": "Logo",
             "cover": "2-4.png",
             "images": [
                 "2-4.png",
@@ -772,9 +775,9 @@
         },
         {
             "folder": "uburtgl",
-            "name": "uburtgl",
+            "name": "Улсын бүртгэлийн ерөнхий газар",
             "type": "Branding",
-            "cover": "2-2.png",
+            "cover": "1-1.png",
             "images": [
                 "2-2.png",
                 "1-8.png",
@@ -843,7 +846,7 @@
         {
             "folder": "hera20",
             "name": "hera20",
-            "type": "Branding",
+            "type": "Logo",
             "cover": "1.jpg",
             "images": [
                 "1.jpg",
@@ -853,9 +856,32 @@
             ]
         },
         {
+            "folder": "hybr",
+            "name": "hybr",
+            "type": "Branding",
+            "cover": "9.jpg",
+            "images": [
+                "1.png",
+                "9.jpg",
+                "13.png",
+                "15.jpg",
+                "2.jpg",
+                "6.jpg",
+                "12.jpg",
+                "8.jpg",
+                "11.jpg",
+                "4.png",
+                "10.jpg",
+                "14.png",
+                "3.jpg",
+                "5.jpg",
+                "7.jpg"
+            ]
+        },
+        {
             "folder": "oims",
             "name": "oims",
-            "type": "Branding",
+            "type": "Logo",
             "cover": "1.png",
             "images": [
                 "1.png",
@@ -866,8 +892,8 @@
         },
         {
             "folder": "arc",
-            "name": "arc",
-            "type": "Branding",
+            "name": "arctic fox",
+            "type": "Logo",
             "cover": "1-8.png",
             "images": [
                 "1-8.png",
@@ -891,49 +917,38 @@
         },
         {
             "folder": "erdns",
-            "name": "erdns",
+            "name": "Erdenes Critical Minerals",
             "type": "Branding",
             "cover": "74.png",
             "images": [
                 "74.png",
-                "44.png",
                 "21.png",
                 "25.png",
                 "64.png",
-                "69.png",
                 "15.png",
-                "72.png",
                 "54.png",
                 "61.png",
                 "67.png",
                 "36.png",
                 "13.png",
                 "49.png",
-                "39.png",
-                "12.png",
                 "53.png",
                 "52.png",
                 "62.png",
                 "7.png",
                 "26.png",
-                "33.png",
                 "24.png",
                 "30.png",
                 "58.png",
                 "66.png",
                 "59.png",
-                "60.png",
                 "29.png",
                 "6.png",
                 "75.png",
                 "28.png",
-                "40.png",
                 "17.png",
-                "56.png",
                 "68.png",
                 "46.png",
-                "41.png",
-                "32.png",
                 "8.png",
                 "51.png",
                 "20.png",
@@ -941,31 +956,24 @@
                 "57.png",
                 "31.png",
                 "5.png",
-                "10.png",
                 "35.png",
                 "4.png",
                 "42.png",
                 "47.png",
                 "71.png",
-                "16.png",
-                "22.png",
                 "14.png",
                 "11.png",
                 "9.png",
                 "23.png",
-                "27.png",
                 "34.png",
                 "37.png",
-                "73.png",
-                "50.png",
-                "55.png",
                 "2.png"
             ]
         },
         {
             "folder": "dav",
-            "name": "dav",
-            "type": "Branding",
+            "name": "Davaadalai",
+            "type": "Personal branding",
             "cover": "3-6.png",
             "images": [
                 "3-6.png",
@@ -1003,8 +1011,8 @@
         },
         {
             "folder": "cty",
-            "name": "cty",
-            "type": "Branding",
+            "name": "city dental",
+            "type": "Logo",
             "cover": "1.jpg",
             "images": [
                 "1.jpg",
@@ -1016,8 +1024,8 @@
         },
         {
             "folder": "facade",
-            "name": "facade",
-            "type": "Branding",
+            "name": "Facade optima",
+            "type": "Logo",
             "cover": "1.png",
             "images": [
                 "1.png",
@@ -1034,7 +1042,7 @@
         },
         {
             "folder": "lumiere",
-            "name": "lumiere",
+            "name": "Lumiere",
             "type": "Branding",
             "cover": "9.jpg",
             "images": [
@@ -1102,9 +1110,9 @@
         },
         {
             "folder": "bymba",
-            "name": "bymba",
-            "type": "Branding",
-            "cover": "1.jpg",
+            "name": "Бямба-Отгон",
+            "type": "Graphic art",
+            "cover": "4.jpg",
             "images": [
                 "1.jpg",
                 "2.jpg",
@@ -1114,8 +1122,8 @@
         },
         {
             "folder": "axi",
-            "name": "axi",
-            "type": "Branding",
+            "name": "axiform",
+            "type": "Logo",
             "cover": "1.png",
             "images": [
                 "1.png",
@@ -1134,7 +1142,7 @@
         {
             "folder": "finco",
             "name": "finco",
-            "type": "Branding",
+            "type": "Logo",
             "cover": "2-2.png",
             "images": [
                 "2-2.png",
@@ -1145,9 +1153,9 @@
         },
         {
             "folder": "me",
-            "name": "me",
-            "type": "Branding",
-            "cover": "1-2.png",
+            "name": "melearn",
+            "type": "Logo",
+            "cover": "1-4.png",
             "images": [
                 "1-2.png",
                 "1-1.png",
@@ -1157,7 +1165,7 @@
         },
         {
             "folder": "ipaf",
-            "name": "ipaf",
+            "name": "IPAF 9th",
             "type": "Branding",
             "cover": "1-17.png",
             "images": [
@@ -1182,9 +1190,9 @@
         },
         {
             "folder": "batlz",
-            "name": "batlz",
-            "type": "Branding",
-            "cover": "1.jpg",
+            "name": "Бат-Өлзий",
+            "type": "Graphic art",
+            "cover": "2.jpg",
             "images": [
                 "1.jpg",
                 "2.jpg",
@@ -1195,7 +1203,7 @@
         {
             "folder": "enhsuu",
             "name": "enhsuu",
-            "type": "Branding",
+            "type": "Logo",
             "cover": "1.jpg",
             "images": [
                 "1.jpg",
@@ -1207,7 +1215,7 @@
         {
             "folder": "remikon15",
             "name": "remikon15",
-            "type": "Branding",
+            "type": "Logo",
             "cover": "1.jpg",
             "images": [
                 "1.jpg",
@@ -1218,7 +1226,7 @@
         },
         {
             "folder": "jngr",
-            "name": "jngr",
+            "name": "Жангар фестиваль",
             "type": "Branding",
             "cover": "1-17.png",
             "images": [
@@ -1245,7 +1253,7 @@
         },
         {
             "folder": "ori",
-            "name": "ori",
+            "name": "Ori studios",
             "type": "Branding",
             "cover": "1-0.png",
             "images": [
@@ -1275,8 +1283,8 @@
         },
         {
             "folder": "mk",
-            "name": "mk",
-            "type": "Branding",
+            "name": "MK",
+            "type": "Logo",
             "cover": "1-5.png",
             "images": [
                 "1-5.png",
@@ -1288,7 +1296,7 @@
         },
         {
             "folder": "coff",
-            "name": "coff",
+            "name": "Coffice",
             "type": "Branding",
             "cover": "2-2.png",
             "images": [
@@ -1309,7 +1317,7 @@
         },
         {
             "folder": "ddl",
-            "name": "ddl",
+            "name": "DDL",
             "type": "Branding",
             "cover": "1.png",
             "images": [
@@ -1337,7 +1345,7 @@
         {
             "folder": "empire",
             "name": "empire",
-            "type": "Branding",
+            "type": "Logo",
             "cover": "3-2.png",
             "images": [
                 "3-2.png",
@@ -1349,7 +1357,7 @@
         {
             "folder": "crm",
             "name": "crm",
-            "type": "Branding",
+            "type": "Logo",
             "cover": "1-2.png",
             "images": [
                 "1-2.png",
@@ -1360,7 +1368,7 @@
         },
         {
             "folder": "web",
-            "name": "web",
+            "name": "Веб сайтын холбоо",
             "type": "Branding",
             "cover": "1.png",
             "images": [
@@ -1377,7 +1385,7 @@
         },
         {
             "folder": "hvd",
-            "name": "hvd",
+            "name": "Ховд лиг",
             "type": "Branding",
             "cover": "1.png",
             "images": [
@@ -1390,7 +1398,7 @@
         },
         {
             "folder": "conser",
-            "name": "conser",
+            "name": "Conservatory",
             "type": "Branding",
             "cover": "9.jpg",
             "images": [
@@ -1412,8 +1420,8 @@
         {
             "folder": "btg",
             "name": "btg",
-            "type": "Branding",
-            "cover": "1.jpg",
+            "type": "Personal branding",
+            "cover": "4.jpg",
             "images": [
                 "1.jpg",
                 "2.jpg",
@@ -1423,9 +1431,9 @@
         },
         {
             "folder": "3e",
-            "name": "3e",
+            "name": "Улсын Гуравдугаар Төв Эмнэлэг",
             "type": "Branding",
-            "cover": "1-17.png",
+            "cover": "1-24.png",
             "images": [
                 "1-17.png",
                 "1-8.png",
@@ -1461,7 +1469,7 @@
         },
         {
             "folder": "monfemnet",
-            "name": "monfemnet",
+            "name": "Monfemnet",
             "type": "Branding",
             "cover": "9.jpg",
             "images": [
@@ -1482,7 +1490,7 @@
         {
             "folder": "sharely",
             "name": "sharely",
-            "type": "Branding",
+            "type": "Logo",
             "cover": "1.jpg",
             "images": [
                 "1.jpg",
@@ -1494,7 +1502,7 @@
         {
             "folder": "edu",
             "name": "edu",
-            "type": "Branding",
+            "type": "Logo",
             "cover": "1.jpg",
             "images": [
                 "1.jpg",
@@ -1505,8 +1513,8 @@
         },
         {
             "folder": "cafe",
-            "name": "cafe",
-            "type": "Branding",
+            "name": "Cafe Bench",
+            "type": "Logo",
             "cover": "1.png",
             "images": [
                 "1.png",
@@ -1523,9 +1531,9 @@
         },
         {
             "folder": "central",
-            "name": "central",
+            "name": "Central Stallions",
             "type": "Branding",
-            "cover": "1-8.png",
+            "cover": "1-2-2.png",
             "images": [
                 "1-8.png",
                 "1-2-1.png",
@@ -1538,7 +1546,7 @@
         {
             "folder": "spluz",
             "name": "spluz",
-            "type": "Branding",
+            "type": "Personal branding",
             "cover": "1-5.png",
             "images": [
                 "1-5.png",
@@ -1548,8 +1556,8 @@
         },
         {
             "folder": "btr",
-            "name": "btr",
-            "type": "Branding",
+            "name": "Baatar",
+            "type": "Personal branding",
             "cover": "1.jpg",
             "images": [
                 "1.jpg",
@@ -1560,8 +1568,8 @@
         },
         {
             "folder": "ubm",
-            "name": "ubm",
-            "type": "Branding",
+            "name": "UBM",
+            "type": "Logo",
             "cover": "1-8.png",
             "images": [
                 "1-8.png",
@@ -1575,9 +1583,9 @@
         },
         {
             "folder": "ga",
-            "name": "ga",
+            "name": "Газар Агуу ХХК",
             "type": "Branding",
-            "cover": "1-25.png",
+            "cover": "1-1.png",
             "images": [
                 "1-25.png",
                 "1-24.png",
@@ -1596,7 +1604,6 @@
                 "1-22.png",
                 "1-20.png",
                 "1-1.png",
-                "1-50.png",
                 "1-27.png",
                 "1-30.png",
                 "1-32.png",
@@ -1607,8 +1614,8 @@
         },
         {
             "folder": "ubfam",
-            "name": "ubfam",
-            "type": "Branding",
+            "name": "Ubcab family",
+            "type": "Logo",
             "cover": "1.png",
             "images": [
                 "1.png",
@@ -1624,35 +1631,12 @@
                 "2.png"
             ]
         },
-        {
-            "folder": "quinn",
-            "name": "quinn",
-            "type": "Branding",
-            "cover": "1.png",
-            "images": [
-                "1.png",
-                "fb.png",
-                "13.png",
-                "12.png",
-                "7.png",
-                "6.png",
-                "8.png",
-                "3.png",
-                "5.png",
-                "1-1.png",
-                "10.png",
-                "4.png",
-                "14.png",
-                "11.png",
-                "9.png",
-                "2.png"
-            ]
-        },
+        
         {
             "folder": "jrglnt",
-            "name": "jrglnt",
+            "name": "Jargalant makh impex",
             "type": "Branding",
-            "cover": "21.png",
+            "cover": "4.png",
             "images": [
                 "21.png",
                 "1.png",
@@ -1681,9 +1665,9 @@
         },
         {
             "folder": "senher",
-            "name": "senher",
-            "type": "Branding",
-            "cover": "1-8.png",
+            "name": "Сэнхэрийн Шим",
+            "type": "Package design",
+            "cover": "1-1.png",
             "images": [
                 "1-8.png",
                 "probox.png",
@@ -1700,8 +1684,8 @@
         },
         {
             "folder": "grl",
-            "name": "grl",
-            "type": "Branding",
+            "name": "Gerel sport",
+            "type": "Logo",
             "cover": "1-2.png",
             "images": [
                 "1-2.png",
@@ -1713,7 +1697,7 @@
         {
             "folder": "acurr",
             "name": "acurr",
-            "type": "Branding",
+            "type": "Logo",
             "cover": "1.jpg",
             "images": [
                 "1.jpg",
@@ -1724,8 +1708,8 @@
         },
         {
             "folder": "nartam",
-            "name": "nartam",
-            "type": "Branding",
+            "name": "NARTAM",
+            "type": "Logo",
             "cover": "1.png",
             "images": [
                 "1.png",
@@ -1736,7 +1720,7 @@
         },
         {
             "folder": "11",
-            "name": "11",
+            "name": "11 Брэнд",
             "type": "Branding",
             "cover": "1.png",
             "images": [
@@ -1756,8 +1740,8 @@
         },
         {
             "folder": "haru",
-            "name": "haru",
-            "type": "Branding",
+            "name": "Haru",
+            "type": "Logo",
             "cover": "1.png",
             "images": [
                 "1.png",
@@ -1775,9 +1759,9 @@
         },
         {
             "folder": "bu",
-            "name": "bu",
+            "name": "Баян-Уул сум",
             "type": "Branding",
-            "cover": "21.png",
+            "cover": "1.png",
             "images": [
                 "21.png",
                 "25.png",
@@ -1800,9 +1784,9 @@
         },
         {
             "folder": "door",
-            "name": "door",
+            "name": "Door.mn",
             "type": "Branding",
-            "cover": "1-17.png",
+            "cover": "1-2.png",
             "images": [
                 "1-17.png",
                 "1-8.png",
@@ -1822,7 +1806,7 @@
         },
         {
             "folder": "terracas",
-            "name": "terracas",
+            "name": "Terracasa",
             "type": "Branding",
             "cover": "1.jpg",
             "images": [
@@ -1834,8 +1818,8 @@
         },
         {
             "folder": "travel",
-            "name": "travel",
-            "type": "Branding",
+            "name": "Travel Up",
+            "type": "Logo",
             "cover": "1-2.png",
             "images": [
                 "1-2.png",
@@ -1846,8 +1830,8 @@
         },
         {
             "folder": "tet",
-            "name": "tet",
-            "type": "Branding",
+            "name": "Tetgeleg app",
+            "type": "Logo",
             "cover": "1.png",
             "images": [
                 "1.png",
@@ -1859,7 +1843,7 @@
         {
             "folder": "jump",
             "name": "jump",
-            "type": "Branding",
+            "type": "Logo",
             "cover": "1.png",
             "images": [
                 "1.png",
@@ -1870,9 +1854,9 @@
         },
         {
             "folder": "market",
-            "name": "market",
+            "name": "Market shop",
             "type": "Branding",
-            "cover": "9.jpg",
+            "cover": "2.jpg",
             "images": [
                 "9.jpg",
                 "1.jpg",
@@ -1894,7 +1878,7 @@
         },
         {
             "folder": "gubu",
-            "name": "gubu",
+            "name": "Гурванбулаг сум",
             "type": "Branding",
             "cover": "gurvan.png",
             "images": [
@@ -1928,8 +1912,8 @@
         },
         {
             "folder": "ind",
-            "name": "ind",
-            "type": "Branding",
+            "name": "Indra",
+            "type": "Personal branding",
             "cover": "2-2.png",
             "images": [
                 "2-2.png",
@@ -1940,7 +1924,7 @@
         },
         {
             "folder": "ns",
-            "name": "ns",
+            "name": "New style",
             "type": "Branding",
             "cover": "1.png",
             "images": [
@@ -1967,8 +1951,8 @@
         },
         {
             "folder": "zep",
-            "name": "zep",
-            "type": "Branding",
+            "name": "Zepix",
+            "type": "Logo",
             "cover": "1.png",
             "images": [
                 "1.png",
@@ -1985,9 +1969,9 @@
         },
         {
             "folder": "shmt",
-            "name": "shmt",
+            "name": "Shimt agro",
             "type": "Branding",
-            "cover": "1-17.png",
+            "cover": "1.png",
             "images": [
                 "1-17.png",
                 "1-25.png",
@@ -2017,9 +2001,9 @@
         },
         {
             "folder": "tumen",
-            "name": "tumen",
+            "name": "Түмэн тэмээний баяр",
             "type": "Branding",
-            "cover": "21.png",
+            "cover": "1.png",
             "images": [
                 "21.png",
                 "25.png",
@@ -2048,7 +2032,7 @@
         },
         {
             "folder": "prime",
-            "name": "prime",
+            "name": "Prime partners",
             "type": "Branding",
             "cover": "1-17.png",
             "images": [
@@ -2070,7 +2054,7 @@
         },
         {
             "folder": "green",
-            "name": "green",
+            "name": "Green eldorado",
             "type": "Branding",
             "cover": "1.png",
             "images": [
@@ -2088,9 +2072,9 @@
         },
         {
             "folder": "pk",
-            "name": "pk",
+            "name": "Peak oil",
             "type": "Branding",
-            "cover": "1-17.png",
+            "cover": "1.png",
             "images": [
                 "1-17.png",
                 "1-8.png",
@@ -2125,9 +2109,9 @@
         },
         {
             "folder": "winter",
-            "name": "winter",
+            "name": "Winter garden",
             "type": "Branding",
-            "cover": "9.jpg",
+            "cover": "2.jpg",
             "images": [
                 "9.jpg",
                 "21.jpg",
@@ -2154,7 +2138,7 @@
         },
         {
             "folder": "ic",
-            "name": "ic",
+            "name": "Ic clinic",
             "type": "Branding",
             "cover": "9.jpg",
             "images": [
@@ -2178,9 +2162,9 @@
         },
         {
             "folder": "tumursukh",
-            "name": "tumursukh",
-            "type": "Branding",
-            "cover": "t-3.png",
+            "name": "Tumursukh",
+            "type": "Personal branding",
+            "cover": "t-1.png",
             "images": [
                 "t-3.png",
                 "t-1.png",
@@ -2192,7 +2176,7 @@
             "folder": "vibe",
             "name": "vibe",
             "type": "Branding",
-            "cover": "1-17.png",
+            "cover": "1-14.png",
             "images": [
                 "1-17.png",
                 "1-8.png",
@@ -2217,8 +2201,8 @@
         },
         {
             "folder": "alpha",
-            "name": "alpha",
-            "type": "Branding",
+            "name": "Alpha bull",
+            "type": "Logo",
             "cover": "1-5.png",
             "images": [
                 "1-5.png",
@@ -2231,8 +2215,8 @@
         },
         {
             "folder": "zorig",
-            "name": "zorig",
-            "type": "Branding",
+            "name": "Зориг ардчиллын хүрээлэн",
+            "type": "Logo",
             "cover": "1-5.png",
             "images": [
                 "1-5.png",
@@ -2243,8 +2227,8 @@
         },
         {
             "folder": "ogoomor",
-            "name": "ogoomor",
-            "type": "Branding",
+            "name": "Өгөөмөр ташир ххк",
+            "type": "Logo",
             "cover": "1.jpg",
             "images": [
                 "1.jpg",
