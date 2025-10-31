@@ -2,7 +2,7 @@
     "projects": [
         {
             "folder": "quinn",
-            "name": "quinn",
+            "name": "QUINNCOOK",
             "type": "Branding",
             "cover": "1.png",
             "images": [
@@ -22,6 +22,76 @@
                 "11.png",
                 "9.png",
                 "2.png"
+            ]
+        },
+         {
+            "folder": "uburtgl",
+            "name": "Улсын бүртгэлийн ерөнхий газар",
+            "type": "Branding",
+            "cover": "1-1.png",
+            "images": [
+                "2-2.png",
+                "1-8.png",
+                "1-25.png",
+                "2-3.png",
+                "1-14.png",
+                "2-8.png",
+                "1-24.png",
+                "1-62.png",
+                "2-4.png",
+                "2-12.png",
+                "1-9.png",
+                "1-37.png",
+                "1-4-1.png",
+                "1-67.png",
+                "2-9.png",
+                "1-45.png",
+                "1-10.png",
+                "1-35.png",
+                "1-53.png",
+                "1-26.png",
+                "1-12.png",
+                "1-47.png",
+                "1-46.png",
+                "1-31.png",
+                "1-23.png",
+                "1-5.png",
+                "1-18.png",
+                "1-38.png",
+                "2-7.png",
+                "2-14.png",
+                "1-55.png",
+                "1-11.png",
+                "1-9-1.png",
+                "1-48.png",
+                "1-36.png",
+                "1-6.png",
+                "1-54.png",
+                "2-5.png",
+                "1-7.png",
+                "2-6.png",
+                "1-49.png",
+                "1-60.png",
+                "1-22.png",
+                "2-18.png",
+                "1-20.png",
+                "1-1.png",
+                "1-50.png",
+                "1-4.png",
+                "1-63.png",
+                "1-3-1.png",
+                "2-1.png",
+                "2-11.png",
+                "2-10.png",
+                "1-27.png",
+                "1-3.png",
+                "1-30.png",
+                "1-32.png",
+                "1-64.png",
+                "2-13.png",
+                "1-21.png",
+                "1-61.png",
+                "1-13.png"
             ]
         },
          {
@@ -89,7 +159,7 @@
         },
         {
             "folder": "mxwl",
-            "name": "Maxwell",
+            "name": "Maxwell Residence",
             "type": "Branding",
             "cover": "4.png",
             "images": [
@@ -189,24 +259,12 @@
             "folder": "travida",
             "name": "travida",
             "type": "Logo",
-            "cover": "1-5.png",
+            "cover": "1-6.png",
             "images": [
                 "1-5.png",
                 "1-6.png",
                 "1-1.png",
                 "1-4.png"
-            ]
-        },
-        {
-            "folder": "dayan",
-            "name": "dayan",
-            "type": "Logo",
-            "cover": "1.jpg",
-            "images": [
-                "1.jpg",
-                "2.jpg",
-                "3.jpg",
-                "4.jpg"
             ]
         },
         {
@@ -604,6 +662,18 @@
             ]
         },
         {
+            "folder": "dayan",
+            "name": "dayan",
+            "type": "Logo",
+            "cover": "1.jpg",
+            "images": [
+                "1.jpg",
+                "2.jpg",
+                "3.jpg",
+                "4.jpg"
+            ]
+        },
+        {
             "folder": "buynt",
             "name": "Buyant organic meat",
             "type": "Logo",
@@ -658,7 +728,7 @@
         },
         {
             "folder": "otgoo",
-            "name": "otgoo",
+            "name": "Otgonbayar enterprise",
             "type": "Personal branding",
             "cover": "4.jpg",
             "images": [
@@ -706,7 +776,7 @@
             "folder": "duut",
             "name": "Duut urlan",
             "type": "Branding",
-            "cover": "0-1.png",
+            "cover": "1.png",
             "images": [
                 "1-17.png",
                 "1-8.png",
@@ -748,76 +818,7 @@
                 "2-1.png"
             ]
         },
-        {
-            "folder": "uburtgl",
-            "name": "Улсын бүртгэлийн ерөнхий газар",
-            "type": "Branding",
-            "cover": "1-1.png",
-            "images": [
-                "2-2.png",
-                "1-8.png",
-                "1-25.png",
-                "2-3.png",
-                "1-14.png",
-                "2-8.png",
-                "1-24.png",
-                "1-62.png",
-                "2-4.png",
-                "2-12.png",
-                "1-9.png",
-                "1-37.png",
-                "1-4-1.png",
-                "1-67.png",
-                "2-9.png",
-                "1-45.png",
-                "1-10.png",
-                "1-35.png",
-                "1-53.png",
-                "1-26.png",
-                "1-12.png",
-                "1-47.png",
-                "1-46.png",
-                "1-31.png",
-                "1-23.png",
-                "1-5.png",
-                "1-18.png",
-                "1-38.png",
-                "2-7.png",
-                "2-14.png",
-                "1-55.png",
-                "1-11.png",
-                "1-9-1.png",
-                "1-48.png",
-                "1-36.png",
-                "1-6.png",
-                "1-54.png",
-                "2-5.png",
-                "1-7.png",
-                "2-6.png",
-                "1-49.png",
-                "1-60.png",
-                "1-22.png",
-                "2-18.png",
-                "1-20.png",
-                "1-1.png",
-                "1-50.png",
-                "1-4.png",
-                "1-63.png",
-                "1-3-1.png",
-                "2-1.png",
-                "2-11.png",
-                "2-10.png",
-                "1-27.png",
-                "1-3.png",
-                "1-30.png",
-                "1-32.png",
-                "1-64.png",
-                "2-13.png",
-                "1-21.png",
-                "1-61.png",
-                "1-13.png"
-            ]
-        },
+       
         {
             "folder": "hera20",
             "name": "hera20",
@@ -1046,7 +1047,7 @@
             "folder": "lumiere",
             "name": "Lumiere",
             "type": "Branding",
-            "cover": "9.jpg",
+            "cover": "24.jpg",
             "images": [
                 "9.jpg",
                 "21.jpg",
@@ -1145,12 +1146,13 @@
             "folder": "finco",
             "name": "finco",
             "type": "Logo",
-            "cover": "2-2.png",
+            "cover": "2-3.png",
             "images": [
+                "2-1.png"
                 "2-2.png",
                 "2-3.png",
                 "2-4.png",
-                "2-1.png"
+                
             ]
         },
         {
@@ -1257,7 +1259,7 @@
             "folder": "ori",
             "name": "Ori studios",
             "type": "Branding",
-            "cover": "1-0.png",
+            "cover": "1-14.png",
             "images": [
                 "1-0.png",
                 "1-17.png",
@@ -1388,8 +1390,8 @@
         {
             "folder": "hvd",
             "name": "Ховд лиг",
-            "type": "Branding",
-            "cover": "1.png",
+            "type": "Logo",
+            "cover": "2.png",
             "images": [
                 "1.png",
                 "3.png",
@@ -1402,7 +1404,7 @@
             "folder": "conser",
             "name": "Conservatory",
             "type": "Branding",
-            "cover": "9.jpg",
+            "cover": "1.jpg",
             "images": [
                 "9.jpg",
                 "1.jpg",
@@ -1560,7 +1562,7 @@
             "folder": "btr",
             "name": "Baatar",
             "type": "Personal branding",
-            "cover": "1.jpg",
+            "cover": "3.jpg",
             "images": [
                 "1.jpg",
                 "2.jpg",
@@ -2219,7 +2221,7 @@
             "folder": "zorig",
             "name": "Зориг ардчиллын хүрээлэн",
             "type": "Logo",
-            "cover": "1-5.png",
+            "cover": "1-3.png",
             "images": [
                 "1-5.png",
                 "1-1.png",
