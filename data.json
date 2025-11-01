@@ -455,21 +455,17 @@
             ]
         },
         {
-            "folder": "silk",
-            "name": "silk",
+            "folder": "lera",
+            "name": "lera",
             "type": "Logo",
-            "cover": "1.png",
+            "cover": "1-10.png",
             "images": [
-                "1.png",
-                "9.jpg",
-                "8.jpg",
-                "6.png",
-                "5.png",
-                "4.png",
-                "10.jpg",
-                "3.jpg",
-                "7.jpg",
-                "2.png"
+                "1-10.png",
+                "1-5.png",
+                "1-6.png",
+                "1-7.png",
+                "1-2.png",
+                "1-1.png"
             ]
         },
         {
@@ -609,20 +605,6 @@
                 "4.png",
                 "4-7.png",
                 "2.png"
-            ]
-        },
-        {
-            "folder": "lera",
-            "name": "lera",
-            "type": "Logo",
-            "cover": "1-10.png",
-            "images": [
-                "1-10.png",
-                "1-5.png",
-                "1-6.png",
-                "1-7.png",
-                "1-2.png",
-                "1-1.png"
             ]
         },
         {
@@ -1092,6 +1074,24 @@
                 "23.jpg",
                 "4.jpg",
                 "22.jpg"
+            ]
+        },
+         {
+            "folder": "silk",
+            "name": "silk",
+            "type": "Logo",
+            "cover": "1.png",
+            "images": [
+                "1.png",
+                "9.jpg",
+                "8.jpg",
+                "6.png",
+                "5.png",
+                "4.png",
+                "10.jpg",
+                "3.jpg",
+                "7.jpg",
+                "2.png"
             ]
         },
         {
