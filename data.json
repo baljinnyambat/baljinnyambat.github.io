@@ -1249,33 +1249,6 @@
             ]
         },
         {
-            "folder": "jngr",
-            "name": "Жангар фестиваль",
-            "type": "Branding",
-            "cover": "1-25.png",
-            "images": [
-                "1-17.png",
-                "1-8.png",
-                "1-25.png",
-                "jan.png",
-                "1-10.png",
-                "1-23.png",
-                "1-18.png",
-                "1-16.png",
-                "1-7.png",
-                "1-2.png",
-                "1-22.png",
-                "1-20.png",
-                "1-1.png",
-                "1-4.png",
-                "1-15.png",
-                "1-3.png",
-                "1-19.png",
-                "1-21.png",
-                "1-13.png"
-            ]
-        },
-        {
             "folder": "ori",
             "name": "Ori studios",
             "type": "Branding",
@@ -1305,6 +1278,34 @@
                 "1-13.png"
             ]
         },
+        {
+            "folder": "jngr",
+            "name": "Жангар фестиваль",
+            "type": "Branding",
+            "cover": "1-25.png",
+            "images": [
+                "1-17.png",
+                "1-8.png",
+                "1-25.png",
+                "jan.png",
+                "1-10.png",
+                "1-23.png",
+                "1-18.png",
+                "1-16.png",
+                "1-7.png",
+                "1-2.png",
+                "1-22.png",
+                "1-20.png",
+                "1-1.png",
+                "1-4.png",
+                "1-15.png",
+                "1-3.png",
+                "1-19.png",
+                "1-21.png",
+                "1-13.png"
+            ]
+        },
+        
         {
             "folder": "mk",
             "name": "MK",
@@ -1736,6 +1737,35 @@
             ]
         },
         {
+            "folder": "winter",
+            "name": "Winter garden",
+            "type": "Branding",
+            "cover": "2.jpg",
+            "images": [
+                "9.jpg",
+                "21.jpg",
+                "1.jpg",
+                "2-1.jpg",
+                "17.jpg",
+                "2-2.jpg",
+                "15.jpg",
+                "2.jpg",
+                "6.jpg",
+                "12.jpg",
+                "8.jpg",
+                "18.jpg",
+                "19.jpg",
+                "14.jpg",
+                "16.jpg",
+                "13.jpg",
+                "10.jpg",
+                "20.jpg",
+                "3.jpg",
+                "5.jpg",
+                "4.jpg"
+            ]
+        },
+        {
             "folder": "acurr",
             "name": "acurr",
             "type": "Logo",
@@ -1751,7 +1781,7 @@
             "folder": "nartam",
             "name": "NARTAM",
             "type": "Logo",
-            "cover": "1.png",
+            "cover": "2.jpg",
             "images": [
                 "1.png",
                 "2.jpg",
@@ -1759,26 +1789,7 @@
                 "4.jpg"
             ]
         },
-        {
-            "folder": "11",
-            "name": "11 Брэнд",
-            "type": "Branding",
-            "cover": "1.png",
-            "images": [
-                "1.png",
-                "9.jpg",
-                "12.png",
-                "2.jpg",
-                "6.jpg",
-                "8.jpg",
-                "3.png",
-                "10.jpg",
-                "11.png",
-                "5.jpg",
-                "7.jpg",
-                "4.jpg"
-            ]
-        },
+        
         {
             "folder": "haru",
             "name": "Haru",
@@ -1952,6 +1963,26 @@
             ]
         },
         {
+            "folder": "11",
+            "name": "11 Брэнд",
+            "type": "Branding",
+            "cover": "1.png",
+            "images": [
+                "1.png",
+                "9.jpg",
+                "12.png",
+                "2.jpg",
+                "6.jpg",
+                "8.jpg",
+                "3.png",
+                "10.jpg",
+                "11.png",
+                "5.jpg",
+                "7.jpg",
+                "4.jpg"
+            ]
+        },
+        {
             "folder": "ind",
             "name": "Indra",
             "type": "Personal branding",
@@ -1988,24 +2019,6 @@
                 "5.jpg",
                 "7.jpg",
                 "4.jpg"
-            ]
-        },
-        {
-            "folder": "zep",
-            "name": "Zepix",
-            "type": "Logo",
-            "cover": "1.png",
-            "images": [
-                "1.png",
-                "7.png",
-                "2.jpg",
-                "8.jpg",
-                "6.png",
-                "3.png",
-                "5.png",
-                "10.png",
-                "4.png",
-                "9.png"
             ]
         },
         {
@@ -2149,32 +2162,21 @@
             ]
         },
         {
-            "folder": "winter",
-            "name": "Winter garden",
-            "type": "Branding",
-            "cover": "2.jpg",
+            "folder": "zep",
+            "name": "Zepix",
+            "type": "Logo",
+            "cover": "1.png",
             "images": [
-                "9.jpg",
-                "21.jpg",
-                "1.jpg",
-                "2-1.jpg",
-                "17.jpg",
-                "2-2.jpg",
-                "15.jpg",
+                "1.png",
+                "7.png",
                 "2.jpg",
-                "6.jpg",
-                "12.jpg",
                 "8.jpg",
-                "18.jpg",
-                "19.jpg",
-                "14.jpg",
-                "16.jpg",
-                "13.jpg",
-                "10.jpg",
-                "20.jpg",
-                "3.jpg",
-                "5.jpg",
-                "4.jpg"
+                "6.png",
+                "3.png",
+                "5.png",
+                "10.png",
+                "4.png",
+                "9.png"
             ]
         },
         {
