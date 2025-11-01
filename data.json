@@ -175,8 +175,28 @@
                 "1-21.png"
             ]
         },
-       
-        {
+         {
+            "folder": "conser",
+            "name": "Conservatory",
+            "type": "Branding",
+            "cover": "1.jpg",
+            "images": [
+                "9.jpg",
+                "1.jpg",
+                "6.jpg",
+                "12.jpg",
+                "8.jpg",
+                "11.jpg",
+                "4.png",
+                "13.jpg",
+                "10.jpg",
+                "3.jpg",
+                "5.jpg",
+                "7.jpg",
+                "2.png"
+            ]
+        },
+         {
             "folder": "mxwl",
             "name": "Maxwell Residence",
             "type": "Branding",
@@ -200,27 +220,6 @@
                 "22.png",
                 "11.png",
                 "9.png",
-                "2.png"
-            ]
-        },
-         {
-            "folder": "conser",
-            "name": "Conservatory",
-            "type": "Branding",
-            "cover": "1.jpg",
-            "images": [
-                "9.jpg",
-                "1.jpg",
-                "6.jpg",
-                "12.jpg",
-                "8.jpg",
-                "11.jpg",
-                "4.png",
-                "13.jpg",
-                "10.jpg",
-                "3.jpg",
-                "5.jpg",
-                "7.jpg",
                 "2.png"
             ]
         },
