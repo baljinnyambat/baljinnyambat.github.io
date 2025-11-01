@@ -479,18 +479,6 @@
                 "1-1.png"
             ]
         },
-         {
-            "folder": "indrrr",
-            "name": "Indria minimal cake",
-            "type": "Logo",
-            "cover": "2-2.png",
-            "images": [
-                "2-2.png",
-                "2-7.png",
-                "2-5.png",
-                "2-6.png"
-            ]
-        },
         {
             "folder": "shira",
             "name": "Shirakawa",
@@ -828,6 +816,18 @@
                 "2.jpg",
                 "3.jpg",
                 "4.jpg"
+            ]
+        },
+        {
+            "folder": "indrrr",
+            "name": "Indria minimal cake",
+            "type": "Logo",
+            "cover": "2-2.png",
+            "images": [
+                "2-2.png",
+                "2-7.png",
+                "2-5.png",
+                "2-6.png"
             ]
         },
         {
