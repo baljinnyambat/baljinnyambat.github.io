@@ -419,18 +419,6 @@
                 "2.png"
             ]
         },
-         {
-            "folder": "score",
-            "name": "score",
-            "type": "Logo",
-            "cover": "1.png",
-            "images": [
-                "1.png",
-                "2.jpg",
-                "3.jpg",
-                "4.jpg"
-            ]
-        },
         {
             "folder": "indra",
             "name": "Indria home",
