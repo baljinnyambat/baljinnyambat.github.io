@@ -388,6 +388,18 @@
             ]
         },
         {
+            "folder": "jet",
+            "name": "jet trans",
+            "type": "Logo",
+            "cover": "1.jpg",
+            "images": [
+                "1.jpg",
+                "2.jpg",
+                "3.jpg",
+                "4.jpg"
+            ]
+        },
+        {
             "folder": "insur",
             "name": "insur Hub",
             "type": "Logo",
@@ -409,18 +421,6 @@
             ]
         },
         {
-            "folder": "jet",
-            "name": "jet trans",
-            "type": "Logo",
-            "cover": "1.jpg",
-            "images": [
-                "1.jpg",
-                "2.jpg",
-                "3.jpg",
-                "4.jpg"
-            ]
-        },
-        {
             "folder": "indra",
             "name": "Indria home",
             "type": "Logo",
@@ -436,7 +436,7 @@
             "folder": "mgns",
             "name": "Magnus",
             "type": "Branding",
-            "cover": "9.jpg",
+            "cover": "2.jpg",
             "images": [
                 "9.jpg",
                 "1.jpg",
@@ -451,18 +451,6 @@
                 "3.jpg",
                 "5.jpg",
                 "7.jpg",
-                "4.jpg"
-            ]
-        },
-        {
-            "folder": "score",
-            "name": "score",
-            "type": "Logo",
-            "cover": "1.png",
-            "images": [
-                "1.png",
-                "2.jpg",
-                "3.jpg",
                 "4.jpg"
             ]
         },
@@ -482,6 +470,18 @@
                 "3.jpg",
                 "7.jpg",
                 "2.png"
+            ]
+        },
+        {
+            "folder": "score",
+            "name": "score",
+            "type": "Logo",
+            "cover": "1.png",
+            "images": [
+                "1.png",
+                "2.jpg",
+                "3.jpg",
+                "4.jpg"
             ]
         },
         {
