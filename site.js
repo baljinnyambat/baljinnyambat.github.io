@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // enlarge when hovering a link or image in a link
   document.addEventListener("mouseover", (e) => {
     if (e.target.closest("a") || e.target.closest(".project")) {
-      bubble.style.transform = "scale(3)";
+      bubble.style.transform = "scale(2)";
       bubble.style.opacity = "0.8";
     }
   });
