@@ -24,13 +24,14 @@
     <link type="text/css" rel="stylesheet"
         href="https://cdn.jsdelivr.net/npm/lightgallery@2.7.2/css/lightgallery-bundle.min.css" />
     <link rel="stylesheet" href="site.css">
+    <script src="site.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 </head>
 
 <body>
     <nav class="sm:fixed sm:top-0 sm:z-10 w-full  bg-linear-to-r from-sky-700 to-blue-900">
-        <div class="sm:flex sm:flex-row gap-x-5">
+        <div class="sm:flex sm:flex-row">
             <a href="/" class="flex-shrink-0">
                 <img src="logo.png" class="h-16 w-auto p-5" />
             </a>
@@ -56,8 +57,12 @@
         </div>
     </nav>
 
+    <div id="cursor">
+        <div id="cursor-inner"></div>
+    </div>
+
     <div class="fixed radius-full bg-red/30 top-50 sm:top-20 left-5 text-white ">
-        <a href="/" class="flex flex-row gap-x-1 text-lg bg-black/50 rounded-full p-3 hover:bg-sky-700/70">
+        <a href="/" class="flex flex-row gap-x-1 text-lg bg-black/50 rounded-full p-3 hover:bg-sky-700/90">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                 stroke="currentColor" class="size-4 sm:size-8">
                 <path stroke-linecap="round" stroke-linejoin="round"
