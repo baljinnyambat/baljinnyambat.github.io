@@ -17,10 +17,10 @@
 
 /* Inner bubble handles scale & appearance */
 #cursor-inner {
-  width: 24px;
-  height: 24px;
+  width: 16px;
+  height: 16px;
   border-radius: 9999px;
-  background: rgba(38, 107, 218, 0.4); /* blue-500 @ 40% */
+  background: rgba(41, 174, 255, 1); /* blue-500 @ 40% */
   transition: transform 0.15s ease-out;
   transform-origin: center;
 }
