@@ -21,14 +21,20 @@
     <meta name="twitter:image" content="logo.png" />
 
     <link rel="icon" type="image/x-icon" href="favicon.png">
+    <link rel="stylesheet" href="site.css">
+    <script src="site.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
 </head>
 
 <body id="top" class="scroll-smooth">
+    <div id="cursor">
+        <div id="cursor-inner"></div>
+    </div>
 
     <nav class="sm:fixed sm:top-0 sm:z-10 w-full  bg-linear-to-r from-sky-700 to-blue-900">
-        <div class="sm:flex sm:flex-row gap-x-5">
+        <div class="sm:flex sm:flex-row">
             <a href="/" class="flex-shrink-0">
                 <img src="logo.png" class="h-16 w-auto p-5" />
             </a>
@@ -68,7 +74,7 @@
 
                 $.each(data.projects, function (index, project) {
                     jpgname = project.cover.replace('.png', '.jpg');
-                    html += `<div class="overflow-hidden relative group cursor-pointer rounded-lg shadow-lg" onclick="go('${project.folder}')">
+                    html += `<div class="overflow-hidden relative group cursor-pointer rounded-lg shadow-lg project" onclick="go('${project.folder}')">
                         <img src="small/${project.folder}/${jpgname}" loading="lazy"
                             class="w-full h-full aspect-square object-cover transition-transform duration-500 group-hover:scale-110 " />
                         <p
@@ -87,7 +93,9 @@
         });
     </script>
 
-    <a href="#top" class="fixed bottom-6 right-6 bg-black/50 text-white p-3 rounded-full shadow-lg hover:bg-sky-700/70">
+
+
+    <a href="#top" class="fixed bottom-6 right-6 bg-black/50 text-white p-3 rounded-full shadow-lg hover:bg-sky-700/90">
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"
             class="size-4 sm:size-6">
             <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 18.75 7.5-7.5 7.5 7.5" />
