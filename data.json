@@ -25,6 +25,67 @@
             ]
         },
          {
+            "folder": "binary",
+            "name": "binary",
+            "type": "Branding",
+            "cover": "2.jpg",
+            "images": [
+                "9.jpg",
+                "1.jpg",
+                "2.jpg",
+                "6.jpg",
+                "12.jpg",
+                "8.jpg",
+                "11.jpg",
+                "10.jpg",
+                "3.jpg",
+                "5.jpg",
+                "7.jpg",
+                "4.jpg"
+            ]
+        },
+         {
+            "folder": "tenger",
+            "name": "tenger",
+            "type": "Branding",
+            "cover": "1.png",
+            "images": [
+                "1.png",
+                "tenger.png",
+                "1-37.png",
+                "1-40.png",
+                "1-45.png",
+                "1-10.png",
+                "1-35.png",
+                "1-34.png",
+                "1-51.png",
+                "1-26.png",
+                "1-47.png",
+                "1-46.png",
+                "1-31.png",
+                "1-33.png",
+                "1-38.png",
+                "1-43.png",
+                "1-44.png",
+                "1-48.png",
+                "1-36.png",
+                "1-16.png",
+                "1-39.png",
+                "1-49.png",
+                "1-20.png",
+                "1-50.png",
+                "1-15.png",
+                "1-41.png",
+                "1-27.png",
+                "1-30.png",
+                "1-32.png",
+                "1-28.png",
+                "1-29.png",
+                "1-42.png",
+                "1-21.png"
+            ]
+        },
+         {
             "folder": "uburtgl",
             "name": "Улсын бүртгэлийн ерөнхий газар",
             "type": "Branding",
@@ -94,29 +155,6 @@
                 "1-13.png"
             ]
         },
-         {
-            "folder": "ezegt",
-            "name": "Эзэгтэй брэнд",
-            "type": "Package design",
-            "cover": "1l-1.png",
-            "images": [
-                "2l.png",
-                "1l-1.png",
-                "0.2l.png",
-                "3-2.png",
-                "3-6.png",
-                "0.5l-1.png",
-                "3-4.png",
-                "3-3.png",
-                "3-5.png",
-                "2l-1.png",
-                "0.5l.png",
-                "3-1.png",
-                "3-7.png",
-                "0.2l-1.png",
-                "1l.png"
-            ]
-        },
         
         {
             "folder": "baruun",
@@ -134,47 +172,7 @@
                 "3-1.png"
             ]
         },
-       {
-            "folder": "tenger",
-            "name": "tenger",
-            "type": "Branding",
-            "cover": "1.png",
-            "images": [
-                "1.png",
-                "tenger.png",
-                "1-37.png",
-                "1-40.png",
-                "1-45.png",
-                "1-10.png",
-                "1-35.png",
-                "1-34.png",
-                "1-51.png",
-                "1-26.png",
-                "1-47.png",
-                "1-46.png",
-                "1-31.png",
-                "1-33.png",
-                "1-38.png",
-                "1-43.png",
-                "1-44.png",
-                "1-48.png",
-                "1-36.png",
-                "1-16.png",
-                "1-39.png",
-                "1-49.png",
-                "1-20.png",
-                "1-50.png",
-                "1-15.png",
-                "1-41.png",
-                "1-27.png",
-                "1-30.png",
-                "1-32.png",
-                "1-28.png",
-                "1-29.png",
-                "1-42.png",
-                "1-21.png"
-            ]
-        },
+      
          {
             "folder": "conser",
             "name": "Conservatory",
@@ -302,6 +300,29 @@
                 "7.jpg",
                 "9.png",
                 "4.jpg"
+            ]
+        },
+        {
+            "folder": "ezegt",
+            "name": "Эзэгтэй брэнд",
+            "type": "Package design",
+            "cover": "1l-1.png",
+            "images": [
+                "2l.png",
+                "1l-1.png",
+                "0.2l.png",
+                "3-2.png",
+                "3-6.png",
+                "0.5l-1.png",
+                "3-4.png",
+                "3-3.png",
+                "3-5.png",
+                "2l-1.png",
+                "0.5l.png",
+                "3-1.png",
+                "3-7.png",
+                "0.2l-1.png",
+                "1l.png"
             ]
         },
         {
@@ -594,26 +615,7 @@
                 "2.png"
             ]
         },
-        {
-            "folder": "binary",
-            "name": "binary",
-            "type": "Branding",
-            "cover": "2.jpg",
-            "images": [
-                "9.jpg",
-                "1.jpg",
-                "2.jpg",
-                "6.jpg",
-                "12.jpg",
-                "8.jpg",
-                "11.jpg",
-                "10.jpg",
-                "3.jpg",
-                "5.jpg",
-                "7.jpg",
-                "4.jpg"
-            ]
-        },
+       
         {
             "folder": "bats",
             "name": "Батсуурь",
