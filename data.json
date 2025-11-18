@@ -203,6 +203,27 @@
                 "2.png"
             ]
         },
+        
+        {
+            "folder": "mid",
+            "name": "midway event hall",
+            "type": "Branding",
+            "cover": "1.png",
+            "images": [
+                "1.png",
+                "9.jpg",
+                "12.png",
+                "2.jpg",
+                "6.jpg",
+                "11.jpg",
+                "8.png",
+                "10.png",
+                "3.jpg",
+                "5.jpg",
+                "7.jpg",
+                "4.jpg"
+            ]
+        },
          {
             "folder": "misheel",
             "name": "Misheel cargo",
@@ -223,26 +244,6 @@
                 "7.jpg",
                 "4.jpg",
                 "2.png"
-            ]
-        },
-        {
-            "folder": "mid",
-            "name": "midway event hall",
-            "type": "Branding",
-            "cover": "1.png",
-            "images": [
-                "1.png",
-                "9.jpg",
-                "12.png",
-                "2.jpg",
-                "6.jpg",
-                "11.jpg",
-                "8.png",
-                "10.png",
-                "3.jpg",
-                "5.jpg",
-                "7.jpg",
-                "4.jpg"
             ]
         },
         {
